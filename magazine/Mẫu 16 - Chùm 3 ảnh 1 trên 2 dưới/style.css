@@ -116,5 +116,8 @@ body, p{
 		.threePic .col_1_3:nth-child(2n+1){
 			margin-right: 0;
 		}
+		.threePic .fullscreen1{
+			margin-bottom: 5px;
+		}
 	}
 /*end mobile*/

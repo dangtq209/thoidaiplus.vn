@@ -22,8 +22,7 @@
 .imgText_660px .wrapper-contain{
 	width: 660px;
 	margin: 0 auto;
-	padding-top: 0px;
-	padding-bottom: 10px;
+	padding: 0 0 10px;
 }
 .imgText_660px .imgTop-textBottom p{
 	font-size: 20px!important;
@@ -84,7 +83,7 @@
 	}
 	.imgText_660px .wrapper-contain{
 		width: auto;
-		margin: 0px 15px;
+		margin: 0px 10px;
 		-webkit-box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
