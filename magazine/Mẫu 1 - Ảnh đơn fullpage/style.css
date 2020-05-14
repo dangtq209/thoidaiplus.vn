@@ -1,86 +1,86 @@
-.imgFullPage{
+.imgFullPage_1anh{
 	padding-top: 50px;
 }
-.imgFullPage .clearfix{
+.imgFullPage_1anh .clearfix{
 	clear: both;
 }
-.imgFullPage *, .imgFullPage *:before, .imgFullPage *:after{
+.imgFullPage_1anh *, .imgFullPage_1anh *:before, .imgFullPage_1anh *:after{
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.imgFullPage .mg-leftright, .imgFullPage .mg-leftanhright {
+.imgFullPage_1anh .mg-leftright, .imgFullPage_1anh .mg-leftanhright {
 	padding: 0px;
 }
-.imgFullPage .container-inner{
+.imgFullPage_1anh .container-inner{
 	width: 1530px;
 	margin: 0 auto;
 	text-align: justify;
 }
-.imgFullPage .wrapper-contain{
+.imgFullPage_1anh .wrapper-contain{
 	width: 80%;
 	margin: 0 auto;
 	padding-top: 0px;
 	padding-bottom: 10px;
 }
-.imgFullPage .mg-text-center{
+.imgFullPage_1anh .mg-text-center{
 	text-align: center;
 }
-.imgFullPage .wow{
+.imgFullPage_1anh .wow{
 	visibility: hidden;
 }
-.imgFullPage .fullscreen{
+.imgFullPage_1anh .fullscreen{
 	max-width: 100%;
 	height: auto;
 	width: auto;
 }
-.imgFullPage .fullscreen1{
+.imgFullPage_1anh .fullscreen1{
 	max-width: 100%;
 	height: auto;
 	width: 100%;
 }
-.imgFullPage .col_1_3{
+.imgFullPage_1anh .col_1_3{
 	width: 50%;
 	float: left;
 	position: relative;
 }
-.imgFullPage .row_1_2 {
+.imgFullPage_1anh .row_1_2 {
 	float: left;
 	width: 96%;
 }
-.imgFullPage .imgFull{
+.imgFullPage_1anh .imgFull_1anh{
 	margin-bottom: 5px;
 }
 
 @media (min-width: 800px){
-	.imgFullPage .container-inner {
+	.imgFullPage_1anh .container-inner {
 		width: 750px;
 	}
-	.imgFullPage .wrapper-contain{
+	.imgFullPage_1anh .wrapper-contain{
 		font-size: 22px;
 	}
 }
 @media (min-width: 992px){
-	.imgFullPage .container-inner {
+	.imgFullPage_1anh .container-inner {
 		width: 970px;
 	}
 }
 @media (min-width: 1200px) {
-	.imgFullPage .container-inner {
+	.imgFullPage_1anh .container-inner {
 		width: 1004px;
 	}
 }
 /*end pc*/
 
 @media only screen and (max-width: 800px){
-	.imgFullPage .mg-leftright, .imgFullPage .mg-leftanhright{
+	.imgFullPage_1anh .mg-leftright, .imgFullPage_1anh .mg-leftanhright{
 		padding: 0;
 	}
-	.imgFullPage .container-inner{
+	.imgFullPage_1anh .container-inner{
 		width: 100%;
 	}
-	.imgFullPage .wrapper-contain{
+	.imgFullPage_1anh .wrapper-contain{
 		width: auto;
 		margin: 0px 15px;
 		-webkit-box-sizing: border-box;
@@ -91,12 +91,12 @@
 /*end tablet, mobile*/
 
 @media (max-width: 600px){
-	.imgFullPage .col_1_3 .row_1_2, .imgFullPage .col_1_2 .row_1_2, .imgFullPage .col_1_3, .imgFullPage .col_1_2{
+	.imgFullPage_1anh .col_1_3 .row_1_2, .imgFullPage_1anh .col_1_2 .row_1_2, .imgFullPage_1anh .col_1_3, .imgFullPage_1anh .col_1_2{
 		width: 100%;
 	}
 }
 @media screen and (max-width: 768px) {
-	.imgFullPage{
+	.imgFullPage_1anh{
 		padding-top: 67px;
 	}
 }
